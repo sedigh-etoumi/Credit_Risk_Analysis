@@ -17,9 +17,9 @@ All average scores:
 	- precision: 0.99
 	- recall: 0.65
 - Undersampling
-	- balanced accuracy score: 0.6583892135705619
+	- balanced accuracy score: 0.5285362050835781
 	- precision: 0.99
-	- recall: 0.56
+	- recall: 0.44
 - SMOTEENN
 	- balanced accuracy score: 0.5912018148727876
 	- precision: 0.99
