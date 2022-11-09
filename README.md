@@ -21,9 +21,9 @@ All average scores:
 	- precision: 0.99
 	- recall: 0.44
 - SMOTEENN
-	- balanced accuracy score: 0.5912018148727876
+	- balanced accuracy score: 0.5285362050835781
 	- precision: 0.99
-	- recall: 0.40
+	- recall: 0.57
 - Balanced Random Forest Classifier
 	- balanced accuracy score: 0.9959895379250218
 	- precision: 1.00
