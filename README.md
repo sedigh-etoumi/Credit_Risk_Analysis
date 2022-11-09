@@ -9,13 +9,13 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ## Results
 All average scores:
 - Naive Random Oversampling
-	- balanced accuracy score: 0.6627955709509211
+	- balanced accuracy score: 0.6390117682133347
 	- precision: 0.99
-	- recall: 0.64
+	- recall: 0.67
 - SMOTE Oversampling
-	- balanced accuracy score: 0.6583892135705619
+	- balanced accuracy score: 0.6468186341459484
 	- precision: 0.99
-	- recall: 0.68
+	- recall: 0.65
 - Undersampling
 	- balanced accuracy score: 0.6583892135705619
 	- precision: 0.99
