@@ -29,9 +29,9 @@ All average scores:
 	- precision: 1.00
 	- recall: 1.00
 - Easy Ensemble AdaBoost Classifier
-	- balanced accuracy score: 0.9919790758500436
-	- precision: 0.99
-	- recall: 0.99
+	- balanced accuracy score: 0.925427358175101
+	- precision: 1.00
+	- recall: 1.00
 
 Here is the full confusion matrix as well as the classification report for the Easy Ensemble AdaBoost Classifier as an example:
 
